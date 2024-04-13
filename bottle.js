@@ -2,7 +2,7 @@ img="";
 status="";
 objects=[];
 function preload(){
-img=loadImage("fan.jpg");
+img=loadImage("bottle.jpg");
 }
 function setup(){
     canvas=createCanvas(640,420);
